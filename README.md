@@ -48,5 +48,6 @@ The **SparkChain Network Bot** is an advanced automation tool designed for the *
 - sparkchain 
 - sparkchain bot 
 - sparkchain auto bot 
-- sparkchain miner sparkchain airdrop
+- sparkchain miner
+- sparkchain airdrop
 ---
